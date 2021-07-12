@@ -1,0 +1,13 @@
+name: "TDMDAL Workshop"
+output_dir: "docs"
+include: ["*.pdf", "*.R"]
+exclude: ["*.pptx", "*.docx"]
+navbar:
+  title: "Quick Intro to R - M/E MBA (2021)"
+  right:
+    - text: "Home"
+      href: index.html
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate

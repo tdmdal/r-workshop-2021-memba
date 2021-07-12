@@ -1,0 +1,53 @@
+---
+title: "A Quick Introduction to R"
+---
+
+R is a free and powerful programming language for data analysis and visualization. R is extensible, and its community maintains a large collection of high-quality packages for a variety of applications. Many R packages make complex data manipulations and analyses beginner friendly. This workshop is designed to kick-start your R journey. We will start with an overview of what R can do, and how you may use R in your everyday work. Next, we will learn how to setup an R programming environment (either on your own computer or in the cloud). We will then discuss R programming basics and work through a typical R data analysis workflow. You will also see a few R demo projects and try some hands-on exercises. We will end the workshop with an R learning roadmap, so you could continue to learn R on your own using various free resources online.
+
+---
+
+#### What To Prepare 
+
+You don't need to prepare anything for this workshop. However, if you plan to follow along some of the exercises we will do in the workshop, you can get a head start by installing [R](https://www.r-project.org/) and [RStudio Desktop](https://rstudio.com/products/rstudio/download/) before the workshop.
+
+If you encounter technical difficulties installing the software, you can instead create a free [RStudio Cloud](https://rstudio.cloud/) account so you can run R in the cloud via your browser.
+
+An alternative to RStudio Cloud is the new UofT JupyterHub/RStudio system. Go to its [home page](https://jupyter.utoronto.ca/hub/login), choose the *RStudio* option, and click "*Log in to start*". You will need your UTORid to login. Currently, the UofT JupyterHub/RStudio service is a proof-of-concept installation so it is possible that you experience some minor issues.
+
+---
+
+#### Workshop Materials
+
+COMING SOON.
+
+---
+
+#### Free Learning Resources
+
+* R Programming
+    * [Hands-on Programming with R](https://rstudio-education.github.io/hopr/) (for absolute beginners, i.e., if you have never programmed before)
+    * [R for Data Science](https://r4ds.had.co.nz/) (learn how to manipulate, analyze and visualize data using R’s Tidyverse packages)
+    * [Advanced R](https://adv-r.hadley.nz/) (if you plan to be really good at R)
+    * [R Graphics Cookbook](https://r-graphics.org/)
+    * [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
+    * [The R Graph Gallery](https://www.r-graph-gallery.com/) (R graph samples with code)
+    * [R Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/) (cheat sheets for many popular R packages)
+
+    
+* R for Empirical Analysis
+    * [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
+    * [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
+    * [Financial Engineering Analytics: A Practice Manual Using R](https://bookdown.org/wfoote01/faur/)
+
+* R and Machine Learning
+    * [An Introduction to Statistical Learning / with Applications in R](https://www.statlearning.com/) (you can download the book and its R code)
+    * [R Interface to Tensorflow](https://tensorflow.rstudio.com/) (deep learning in R)
+        
+* Other Tutorials on Econometrics & Statistics using R
+    * [A Short R Tutorial](https://data.princeton.edu/R) by Germán Rodríguez
+    * [Introductory Econometrics Examples](https://justinmshea.github.io/wooldridge/articles/Introductory-Econometrics-Examples.html) (data and examples from Wooldridge)
+    * [STAT545](https://stat545.com/) by [Jenny Bryan](https://jennybryan.org/) : Data wrangling, exploration, and analysis with R
+
+---
+
+Back to [TDMDAL Computing Page](https://tdmdal.github.io/)
