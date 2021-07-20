@@ -18,7 +18,18 @@ An alternative to RStudio Cloud is the new UofT JupyterHub/RStudio system. Go to
 
 #### Workshop Materials
 
-COMING SOON.
+* [Slides](r_intro.pdf)
+* Code
+    * Motivation Examples
+        * Analyze portfolio performance (R Script: [performance_analysis.R](performance_analysis.R))
+        * Look for trends in R community through Twitter (R script: [twitter_example.R](twitter_example.R); Hashtag [#rstat](https://twitter.com/hashtag/rstat) and its [Word Cloud](twitter_word_cloud.html))
+        * Recognize handwritten digits, a deep learning ["Hello World" example](https://tensorflow.rstudio.com/tutorials/beginners/) (R script: [dl_hello_world.R](dl_hello_world.R))
+    * Basic Data and Programming Structures
+        * R script: [r2_data_and_programming_structures.R](r2_data_and_programming_structures.R)
+        * R notebook: [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-tutorial-202021-winter/blob/master/docs/rn2_Data_and_Programming_Structures.ipynb)
+    * R Data Science
+        * R script: [r3_data_manipulation_modelling_report_housing.R](r3_data_manipulation_modelling_report_housing.R)
+        * Regression Report: [sample regression report](result.html) 
 
 ---
 
